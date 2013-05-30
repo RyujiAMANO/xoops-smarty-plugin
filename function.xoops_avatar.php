@@ -1,6 +1,5 @@
 <?php
 
-//js読み込み
 function smarty_function_xoops_avatar($params, &$smarty)
 {
     $user = $params['user'];
